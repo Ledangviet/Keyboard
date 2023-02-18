@@ -1,3 +1,3 @@
 # Keyboard
 # a mini project 
-# create a keyboard in react native app
+# create a smart-phone keyboard in react native app
